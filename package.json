@@ -1,14 +1,13 @@
 {
-  "name": "react-test",
+  "name": "react-boiler",
   "version": "1.0.0",
-  "description": "",
+  "description": "React boilerplate with hot loading support.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --colors --progress",
     "build": "webpack --colors"
   },
-  "author": "",
+  "author": "Tiago Martins",
   "license": "ISC",
   "private": true,
   "dependencies": {
